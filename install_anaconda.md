@@ -8,17 +8,17 @@
 ```bash
 ./Anaconda3-2022.05-Linux-x86_64.sh
 ```
-中间遇到的条款一般都填yes
+安装过程中间遇到的条款一般都填yes
 
 ## 重启terminal
 
-第一种办法是重启机器
+重启终端的第一种办法是重启机器
 
 ```bash
 reboot
 ```
 
-不想重启可以重新ssh远程连接。或者重新导入环境变量
+不想重启电脑可以重新ssh远程连接。或者重新导入环境变量
 
 ```bash
 source ~/.bashrc
@@ -26,4 +26,7 @@ source ~/.bashrc
 
 # 进入anaconda虚拟环境
 
-进入
+```bash
+conda deactivate
+conda activate your_env_name
+```
