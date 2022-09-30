@@ -23,3 +23,7 @@ reboot
 ```bash
 source ~/.bashrc
 ```
+
+# 进入anaconda虚拟环境
+
+进入
