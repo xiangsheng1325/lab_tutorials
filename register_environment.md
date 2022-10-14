@@ -1,3 +1,8 @@
+# 为什么要注册虚拟环境？
+
+我们在服务器安装了新的虚拟环境后，在jupyterlab里暂时还找不到新建的kernel。
+因此我们需要在jupyterlab上为虚拟环境注册一个新kernel，注册了就能用新环境跑代码了。
+
 # 在jupyterlab上注册虚拟环境
 
 注册之前记得先[安装anaconda](https://github.com/xiangsheng1325/lab_tutorials/blob/main/install_anaconda.md)
