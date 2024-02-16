@@ -8,3 +8,4 @@
 
 # 其他
 1. [加速pip下载](https://github.com/xiangsheng1325/lab_tutorials/blob/main/accelerate_pip.md)
+2. [Overleaf入门]()
